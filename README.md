@@ -2,4 +2,8 @@
 
 How-to documentation is written in Markdown and converted to HTML and PDF formats using pandoc. See the notes.
 
-View the HTML docs here: https://sc137.github.io/sars_cranium/
+## [Scheduling Online Appointments](https://sc137.github.io/sars_cranium/SchedulingOnline.html)
+
+## [Adding Dropins From My Cafe](https://sc137.github.io/sars_cranium/MyCafeDropin.html)
+
+
