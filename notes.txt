@@ -1,7 +1,7 @@
 use pandoc to convert the markdown file to html using css and then convert the html to a PDF.
 
-pandoc Scheduling\ an\ Appointment\ Online.txt --css pandoc.css -o SchedulingOnline.html \
+pandoc SchedulingOnline.md --css pandoc.css -o SchedulingOnline.html \
 && pandoc SchedulingOnline.html -o SchedulingOnline.pdf
 
-pandoc MyCafeDropIn.txt --css pandoc.css -o MyCafeDropIn.html && pandoc MyCafeDropIn.html -o MyCafeDropIn.pdf
+pandoc MyCafeDropIn.md --css pandoc.css -o MyCafeDropIn.html && pandoc MyCafeDropIn.html -o MyCafeDropIn.pdf
 
