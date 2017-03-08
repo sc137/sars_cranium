@@ -1,6 +1,7 @@
 # SARS Anywhere and Cranium Cafe Integration
-# Rio Hondo College
-__Sable Cantus__
+
+_Sable Cantus_
+_Rio Hondo College_
 
 This documentation is for integration at Rio Hondo College for Cranium Cafe with SARS Anywhere. Please feel free to fork this project and use this repo for your colleges documentation.
 
