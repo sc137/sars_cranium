@@ -1,9 +1,14 @@
-# Documentation for the Rio Hondo SARS Anywhere and Cranium Cafe Integration
+# SARS Anywhere and Cranium Cafe Integration
+# Rio Hondo College
+__Sable Cantus__
 
-How-to documentation is written in Markdown and converted to HTML and PDF formats using pandoc. See the notes.
+This documentation is for integration at Rio Hondo College for Cranium Cafe with SARS Anywhere. Please feel free to fork this project and use this repo for your colleges documentation.
 
-## [Scheduling Online Appointments](https://sc137.github.io/sars_cranium/SchedulingOnline.html)
+You can find this page here: [https://sc137.github.io/sars_cranium/](https://sc137.github.io/sars_cranium/)
 
-## [Adding Dropins From My Cafe](https://sc137.github.io/sars_cranium/MyCafeDropIn.html)
+The individual pages are here:
+
+* [Scheduling Online Appointments](https://sc137.github.io/sars_cranium/SchedulingOnline.html)
+* [Adding Dropins From My Cafe](https://sc137.github.io/sars_cranium/MyCafeDropIn.html)
 
 
