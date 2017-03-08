@@ -12,3 +12,5 @@ The individual pages are here:
 * [Adding Dropins From My Cafe](https://sc137.github.io/sars_cranium/MyCafeDropIn.html)
 
 
+<hr />
+_contribute to this repository [here](https://github.com/sc137/sars_cranium)_
